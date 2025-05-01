@@ -1,0 +1,26 @@
+.admin-products-manager {
+    padding: 20px;
+  }
+  
+  .admin-products-manager table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .admin-products-manager table th, 
+  .admin-products-manager table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .admin-products-manager table th {
+    background-color: #f4f4f4;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
